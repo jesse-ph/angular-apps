@@ -1,4 +1,5 @@
-# AngularProject1ByMaximillianSchwarzmuller - Udemy Course
+# Angular Online Training Course- Udemy
 
-This first project is part of my course/training I took in udemy.com. The course title is "Angular - The Complete Guide (2020 Edition)".
+Angular - The Complete Guide (2020 Edition).
+
 
