@@ -6,7 +6,7 @@ import { exhaustMap, map, take, tap } from 'rxjs/operators';
 import { RecipeService } from '../recipes/recipe.service';
 import { Recipe } from '../recipes/recipe.model';
 
-@Injectable()
+@Injectable({ providedIn: 'root'})
 export class DataStorageService {
 
   constructor(
